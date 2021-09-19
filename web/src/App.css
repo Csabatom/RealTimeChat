@@ -1,0 +1,15 @@
+.btn:focus, .btn:active, .btn:hover, input:focus{
+  box-shadow: none!important;
+  outline: 0;
+}
+
+.TextField {
+  position: fixed;
+  bottom: 0;
+}
+
+.ChatBubble-bg {
+  color: white;
+  border-radius: 20px;
+  text-align: justify;
+}
